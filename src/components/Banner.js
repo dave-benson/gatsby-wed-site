@@ -6,8 +6,7 @@ const Banner = (props) => (
             <header className="major">
 <<<<<<< HEAD
                 <h1>Sarah & Dave</h1>
-=======
-                <h1>Sarah and Dave</h1>
+
 >>>>>>> origin/master
             </header>
             <div className="content">
