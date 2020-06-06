@@ -4,7 +4,11 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
+<<<<<<< HEAD
                 <h1>Sarah & Dave</h1>
+=======
+                <h1>Sarah and Dave</h1>
+>>>>>>> origin/master
             </header>
             <div className="content">
                 <p>A responsive site template designed by HTML5 UP<br />
